@@ -1,0 +1,81 @@
+<svg width="1080" height="470" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1080 470">
+<rect width="1080" height="470" x="0" y="0" fill="#ffffff"></rect>
+<text dominant-baseline="central" text-anchor="start" style="font-size:17px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;font-weight:bold;" xml:space="preserve" y="8.5" transform="translate(540 110)" fill="#2f6fdb">① 发现（Discovery）</text>
+<path d="M0 0l328.3 0l0 44l-328.3 0Z" transform="translate(540 140)" fill="none" pointer-events="visible" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="11" transform="translate(540 140)" fill="#333">会话启动时仅注入每个技能的 name + description</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="33" transform="translate(540 140)" fill="#333">每个技能约 50–100 tokens，构成模型可见的技能目录</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:17px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;font-weight:bold;" xml:space="preserve" y="8.5" transform="translate(540 225)" fill="#4a9e6b">② 激活（Activation）</text>
+<path d="M0 0l335.2 0l0 44l-335.2 0Z" transform="translate(540 255)" fill="none" pointer-events="visible" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="11" transform="translate(540 255)" fill="#333">任务与 description 匹配后，才加载完整 SKILL.md 正文</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="33" transform="translate(540 255)" fill="#333">建议正文 &lt; 5,000 tokens、SKILL.md 控制在 500 行以内</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:17px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;font-weight:bold;" xml:space="preserve" y="8.5" transform="translate(540 340)" fill="#e8a13a">③ 执行（Execution）</text>
+<path d="M0 0l290 0l0 44l-290 0Z" transform="translate(540 370)" fill="none" pointer-events="visible" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="11" transform="translate(540 370)" fill="#333">按正文中的相对路径引用，按需读取 scripts/、</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.5px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" y="33" transform="translate(540 370)" fill="#333">references/、assets/ 中的脚本、文档与模板资源</text>
+<polyline points="270 137.3 270 137.3" fill="none" pointer-events="visible" stroke="#2f6fdb" class="zr0-cls-0"></polyline>
+<polyline points="270 260 270 260" fill="none" pointer-events="visible" stroke="#4a9e6b" class="zr0-cls-0"></polyline>
+<polyline points="270 382.7 270 382.7" fill="none" pointer-events="visible" stroke="#e8a13a" class="zr0-cls-0"></polyline>
+<polygon points="43.2 80 496.8 80 436.5 194.7 103.5 194.7" fill="#2f6fdb" stroke="#fff" stroke-width="2" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></polygon>
+<polygon points="103.5 202.7 436.5 202.7 392 317.3 148 317.3" fill="#4a9e6b" stroke="#fff" stroke-width="2" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3 zr0-cls-4"></polygon>
+<polygon points="148 325.3 392 325.3 338 440 202 440" fill="#e8a13a" stroke="#fff" stroke-width="2" stroke-linejoin="round" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-5 zr0-cls-6"></polygon>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:16px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" x="270" y="137.33333333333334" fill="#fff">① 发现 Discovery</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:16px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" x="270" y="260" fill="#fff">② 激活 Activation</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:16px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;" xml:space="preserve" x="270" y="382.6666666666667" fill="#fff">③ 执行 Execution</text>
+<path d="M-272.6 -5l545.2 0l0 30l-545.2 0Z" transform="translate(540 17)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr0-cls-7"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:Noto Sans CJK SC, Noto Sans SC, sans-serif;font-weight:bold;" xml:space="preserve" y="10" transform="translate(540 17)" fill="#3c3c41">Agent Skills 渐进式披露（Progressive Disclosure）三层机制</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+}
+.zr0-cls-1 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(51,122,240,1);
+}
+.zr0-cls-3 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(81,173,117,1);
+}
+.zr0-cls-5 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:rgba(255,177,63,1);
+}
+.zr0-cls-7:hover {
+pointer-events:none;
+}
+@keyframes zr0-ani-0 {
+0% {
+opacity:0;
+}
+100% {
+opacity:1;
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+opacity:0;
+}
+100% {
+opacity:1;
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+opacity:0;
+}
+100% {
+opacity:1;
+}
+}
+]]>
+
+</style>
+</svg>
