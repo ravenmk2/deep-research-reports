@@ -1,0 +1,68 @@
+<svg width="900" height="520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 900 520">
+<rect width="900" height="520" x="0" y="0" fill="none"></rect>
+<path d="M110.5 80L110.5 475" fill="none" pointer-events="visible" stroke="#dbdee4" class="zr0-cls-0"></path>
+<path d="M346.5 80L346.5 475" fill="none" pointer-events="visible" stroke="#dbdee4" class="zr0-cls-0"></path>
+<path d="M583.5 80L583.5 475" fill="none" pointer-events="visible" stroke="#dbdee4" class="zr0-cls-0"></path>
+<path d="M820.5 80L820.5 475" fill="none" pointer-events="visible" stroke="#dbdee4" class="zr0-cls-0"></path>
+<path d="M110.5 475L110.5 80" fill="none" pointer-events="visible" stroke="#54555a" stroke-linecap="round" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6" transform="translate(465 503)" fill="#54555a">启动时间 (ms)</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 450.3125)" fill="#54555a">Groovy</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 400.9375)" fill="#54555a">Node.js</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 351.5625)" fill="#54555a">Ruby</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 302.1875)" fill="#54555a">Python</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 252.8125)" fill="#54555a">PHP</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 203.4375)" fill="#54555a">Bash</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 154.0625)" fill="#54555a">Perl</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:14px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" transform="translate(102 104.6875)" fill="#54555a">Lua</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6" transform="translate(110 483)" fill="#54555a">1 ms</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6" transform="translate(346.6667 483)" fill="#54555a">10 ms</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6" transform="translate(583.3333 483)" fill="#54555a">100 ms</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6" transform="translate(820 483)" fill="#54555a">1000 ms</text>
+<path d="M110 439.3l698 0l0 22l-698 0Z" fill="#8c8c8c" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M110 389.9l449 0l0 22l-449 0Z" fill="#5aa88f" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M110 340.6l402.6 0l0 22l-402.6 0Z" fill="#b85c5c" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M110 291.2l282.4 0l0 22l-282.4 0Z" fill="#3b6ea5" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M110 241.8l263.9 0l0 22l-263.9 0Z" fill="#8c8c8c" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M110 192.4l86.9 0l0 22l-86.9 0Z" fill="#e0a458" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M110 143.1l38.9 0l0 22l-38.9 0Z" fill="#8c8c8c" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M110 93.7l0 0l0 22l0 0Z" fill="#8c8c8c" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(812.968 450.3125)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">889.53 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(563.9749 400.9375)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">78.9 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(517.5613 351.5625)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">50.23 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(397.3728 302.1875)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">15.6 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(378.8702 252.8125)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">13.03 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(201.9409 203.4375)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2.33 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(153.8968 154.0625)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.46 ms</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(115 104.6875)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1 ms</text>
+<path d="M-205.3 -5l410.7 0l0 49l-410.7 0Z" transform="translate(450 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:17px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="8.5" transform="translate(450 20)" fill="#3c3c41">脚本解释器冷启动时间对比（毫秒，对数刻度）</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="33" transform="translate(450 20)" fill="#86878c">数据：interpreter-startup-times 基准（空表达式 ×30 取均值，Arch Linux）</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(154,154,154,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(99,184,157,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(202,101,101,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(64,121,181,1);
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(246,180,96,1);
+}
+
+]]>
+
+</style>
+</svg>

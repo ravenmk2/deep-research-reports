@@ -1,0 +1,74 @@
+<svg width="1150" height="620" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 1150 620">
+<rect width="1150" height="620" x="0" y="0" fill="none"></rect>
+<path d="M0 231.5C105 231.5 105 202.5 210 202.5" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M0 231.5C105 231.5 105 260.4 210 260.4" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M210 260.4C315 260.4 315 28.9 420 28.9" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M420 28.9C525 28.9 525 28.9 630 28.9" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M210 260.4C315 260.4 315 144.7 420 144.7" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M420 144.7C525 144.7 525 144.7 630 144.7" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M210 260.4C315 260.4 315 260.4 420 260.4" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M420 260.4C525 260.4 525 260.4 630 260.4" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M210 260.4C315 260.4 315 376.1 420 376.1" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M420 376.1C525 376.1 525 376.1 630 376.1" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M210 260.4C315 260.4 315 491.9 420 491.9" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M420 491.9C525 491.9 525 491.9 630 491.9" transform="translate(190 49.6)" fill="none" pointer-events="visible" stroke="#bbb" stroke-width="1.5" class="zr4-cls-27"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,190,281.0667)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,400,252.1333)" fill="#8c8c8c" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr4-cls-29"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,400,310)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,610,78.5333)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,820,78.5333)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,610,194.2667)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,820,194.2667)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,610,310)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,820,310)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,610,425.7333)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="10" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,820,425.7333)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="11" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,610,541.4667)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="12" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1Z" transform="matrix(5,0,0,5,820,541.4667)" fill="#3b6ea5" stroke="#2a557f" stroke-width="0.3" ecmeta_series_index="0" ecmeta_data_index="13" ecmeta_ssr_type="chart" class="zr4-cls-28"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" y="-6.25" transform="translate(200.75 281.0667)" fill="#222">任务是否需要</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" y="6.25" transform="translate(200.75 281.0667)" fill="#222">确定性执行？</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="-6.25" transform="translate(410.75 252.1333)" fill="#3b6ea5">否：纯文本指令即可</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="6.25" transform="translate(410.75 252.1333)" fill="#3b6ea5">(SKILL.md + references/)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" transform="translate(410.75 310)" fill="#222">是：下沉到 scripts/</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="-6.25" transform="translate(620.75 78.5333)" fill="#222">云端沙箱 / 容器环境</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6.25" transform="translate(620.75 78.5333)" fill="#222">(claude.ai、API、托管 Agent)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="-6.25" transform="translate(830.75 78.5333)" fill="#3b6ea5">Python</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="6.25" transform="translate(830.75 78.5333)" fill="#3b6ea5">预装数据栈 + uv/PEP 723</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="-6.25" transform="translate(620.75 194.2667)" fill="#222">本地 CLI + 跨平台</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6.25" transform="translate(620.75 194.2667)" fill="#222">(含 Windows 用户)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="-6.25" transform="translate(830.75 194.2667)" fill="#3b6ea5">Node.js/Bun 或 Python+uv</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="6.25" transform="translate(830.75 194.2667)" fill="#3b6ea5">避免纯 Bash 与系统命令</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="-6.25" transform="translate(620.75 310)" fill="#222">确定仅 POSIX 环境</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" y="6.25" transform="translate(620.75 310)" fill="#222">的简单系统编排</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="-6.25" transform="translate(830.75 310)" fill="#3b6ea5">Bash</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="6.25" transform="translate(830.75 310)" fill="#3b6ea5">启动最快，勿承载复杂逻辑</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="-6.25" transform="translate(620.75 425.7333)" fill="#222">Windows 企业 /</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" xml:space="preserve" y="6.25" transform="translate(620.75 425.7333)" fill="#222">微软生态 (AD/Azure/M365)</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="-6.25" transform="translate(830.75 425.7333)" fill="#3b6ea5">PowerShell 7+</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="6.25" transform="translate(830.75 425.7333)" fill="#3b6ea5">对象管道 + .NET 集成</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" y="-6.25" transform="translate(620.75 541.4667)" fill="#222">Web/前端工具链</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;" y="6.25" transform="translate(620.75 541.4667)" fill="#222">深度集成</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" y="-6.25" transform="translate(830.75 541.4667)" fill="#3b6ea5">JavaScript/TypeScript</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.5px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="6.25" transform="translate(830.75 541.4667)" fill="#3b6ea5">npx/bunx 生态</text>
+<path d="M-131.2 -5l262.4 0l0 28l-262.4 0Z" transform="translate(575 20)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr4-cls-30"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(575 20)" fill="#3c3c41">Agent Skill 脚本语言选型决策树</text>
+<style ><![CDATA[
+.zr4-cls-27:hover {
+cursor:pointer;
+}
+.zr4-cls-28:hover {
+cursor:pointer;
+fill:rgba(64,121,181,1);
+}
+.zr4-cls-29:hover {
+cursor:pointer;
+fill:rgba(154,154,154,1);
+}
+.zr4-cls-30:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>
